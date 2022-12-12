@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/local-file-manager-app/static/css/main.dead70d5.css",
+    "main.js": "/local-file-manager-app/static/js/main.858fd501.js",
+    "static/js/787.9ddffdff.chunk.js": "/local-file-manager-app/static/js/787.9ddffdff.chunk.js",
+    "index.html": "/local-file-manager-app/index.html",
+    "main.dead70d5.css.map": "/local-file-manager-app/static/css/main.dead70d5.css.map",
+    "main.858fd501.js.map": "/local-file-manager-app/static/js/main.858fd501.js.map",
+    "787.9ddffdff.chunk.js.map": "/local-file-manager-app/static/js/787.9ddffdff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dead70d5.css",
+    "static/js/main.858fd501.js"
+  ]
+}
