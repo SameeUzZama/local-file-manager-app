@@ -16,7 +16,6 @@ export const ContextMenu = (props: ContextMenuProps) => {
       >
         <MenuItem text="Rename" icon={"k-icon k-i-edit"} />
         <MenuItem text="Delete" icon={"k-icon k-i-delete"} />
-        <MenuItem text="Download" icon={"k-icon k-i-download"} />
       </Menu>
     </Popup>
   );
